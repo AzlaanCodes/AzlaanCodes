@@ -12,6 +12,7 @@
 
 ## 📂 Projects
 - Smart Number Analyzer
+- Student Result System
 
 ## 🌱 Currently Learning
 - Git & GitHub
