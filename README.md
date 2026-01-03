@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Azlaan 👋
 
-<!--
-**AzlaanCodes/AzlaanCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Python & C++ Programmer  
+🚀 Learning software development by building real projects  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python
+- C++
+- Programming Fundamentals
+- Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- Smart Number Analyzer
+
+## 🌱 Currently Learning
+- Git & GitHub
+- Python Projects
+- Logic Building
+
+⭐ Always open to learning and improving
