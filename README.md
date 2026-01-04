@@ -43,7 +43,7 @@ A Python-based system to:
 - Display final results  
 
 👉 Repository:  
-(Add your Student Result System repo link here)
+https://github.com/AzlaanCodes/student-result-system
 
 ---
 
